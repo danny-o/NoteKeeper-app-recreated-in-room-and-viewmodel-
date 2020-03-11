@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.digitalskies.mynotes.IndividualNoteActivity">
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:title="delete"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cancel"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:orderInCategory="102"
+        android:title="Cancel"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_set_reminder"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:orderInCategory="102"
+        android:title="Set reminder"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/send_broadcast"
+        android:title="Send Brodcast" />
+
+</menu>

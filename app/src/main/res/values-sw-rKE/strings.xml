@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="note_text_hint">Maandishi ya noti</string>
+    <string name="note_tiltle_hint">kichwa cha noti</string>
+    <string name="title_activity_note_list">halili noti</string>
+</resources>
